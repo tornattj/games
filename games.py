@@ -1,4 +1,4 @@
-# Jacob Tornatta 3/7/20
+# games 2020
 
 import random
 
